@@ -89,7 +89,7 @@ const argv = require('yargs')
   )
   .argv;
 
-console.log(argv);
+//console.log(argv);
 
 // TODO: there is probably a proper way to do this with yargs
 if(!argv.path) argv.path = '.';
