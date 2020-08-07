@@ -1,0 +1,11 @@
+{
+  "name": "json-replace",
+  "version": "1.0.0",
+  "main": "jsr.js",
+  "author": "contact@ian.band",
+  "license": "MIT",
+  "devDependencies": {
+    "json-beautify": "^1.1.1",
+    "yargs": "^15.4.1"
+  }
+}
